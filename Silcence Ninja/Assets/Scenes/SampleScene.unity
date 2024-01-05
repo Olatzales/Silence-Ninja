@@ -1012,8 +1012,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controler: {fileID: 817373254}
-  Gravity: -73
-  WalkSpeed: 12
+  Gravity: -60
+  WalkSpeed: 7
   JumpForce: 3
   GroundCheck: {fileID: 946193913}
   GroundDistance: 0.4
